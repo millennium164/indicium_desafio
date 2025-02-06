@@ -13,3 +13,4 @@ Para acessar o código:
    siga os passos da seção 'Utilização do modelo', no arquivo ipynb
 
 Para a visualização completa das análises, com recursos gráficos e comentários que não foram renderizados no github, por favor abra o arquivo em seu jupyter nootebook.
+Gráficos interativos do plotly e comentários em células marcadas como 'raw', por exemplo, não aparecem na visualização pelo github.
