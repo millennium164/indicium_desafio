@@ -1,8 +1,12 @@
 # indicium_desafio
 Desafio Indicium modelo de precificação de aluguéis em Nova York
 
-Para acessar o código:
-1. digite em seu terminal do VSCode:
+## Visão Geral
+O código comentado e em forma de nootebook está no arquivo indicium.ipynb. Algumas questões elucidativas sobre o assunto e o dataset analisado estão dispostas no documento 'questoes.pdf'.
+Nesse documento também se encontra o link para um vídeo explicativo acerca da elaboração do modelo de precificação.
+
+## Para acessar o código:
+1. digite em seu terminal, dentro da pasta que desejar:
    git clone https://github.com/millennium164/indicium_desafio
 2. execute:
    cd indicium_desafio
