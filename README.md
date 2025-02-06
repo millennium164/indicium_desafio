@@ -11,3 +11,5 @@ Para acessar o código:
 4. É mais fácil de executar o código no jupyter nootebook
 5. Os arquivos pkl do modelo de precificação e do one hot encoder estão anexados, mas para utilizá-los de forma adequado nos dados,
    siga os passos da seção 'Utilização do modelo', no arquivo ipynb
+
+Para a visualização completa das análises, com recursos gráficos e comentários que não foram renderizados no github, por favor abra o arquivo em seu jupyter nootebook.
